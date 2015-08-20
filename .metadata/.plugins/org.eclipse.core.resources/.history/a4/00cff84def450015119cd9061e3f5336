@@ -1,0 +1,6 @@
+
+public class Doge {
+
+	public String name;
+	
+}
